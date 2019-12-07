@@ -44,7 +44,7 @@ comments:
 mathjax: true
 
 # Share
-social-share: true
+social-share: false
 social-share-items: ['wechat']
 
 # theme color 主题皮肤
