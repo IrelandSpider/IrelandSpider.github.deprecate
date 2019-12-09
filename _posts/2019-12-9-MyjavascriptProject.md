@@ -8,7 +8,7 @@ tags: javascript
 ---
 --- updated 2019-12-09 ---
 ## 如何食用以下内容?*
-`*`: 话题有待更新  
+<kbd>*</kbd>: 话题有待更新  
 ## 下载安装编辑器
 javascript编辑器有很多款，vscode、sublime、emacs、vim、notepad++,但是这里选用sublime text 3。  
 [下载sublime text 3 点击这里](https://www.sublimetext.com/3),选择对应的系统版本和位数，这里使用的是windows10 64位，[windows的位数查看方法点击这里](https://support.microsoft.com/zh-cn/help/15056/windows-32-64-bit-faq)，安装过程一直点 Next 就可以了。  
@@ -45,7 +45,7 @@ javascript编辑器有很多款，vscode、sublime、emacs、vim、notepad++,但
 打开 package control : install package,搜索jsformat,回车完成。  
 3 如何使用?*  
 [jsformat项目](https://github.com/jdavisclark/JsFormat)有详细介绍。  
-- sublimeCodeIntel
+- sublimeCodeIntel  
 1 什么是sublimeCodeIntel?  
 这是一款代码提示插件，支持多种语言，说白了可以作弊，毕竟人的大脑有时反应不过来，需要提醒。  
 2 怎么安装？  
