@@ -6,4 +6,4 @@ author: Matrix73
 cover: 'assets/img/pic.jpg'
 tags: 思考
 ---
-![pic]('assets/img/pic.jpg)
+![](assets/img/pic.jpg)
