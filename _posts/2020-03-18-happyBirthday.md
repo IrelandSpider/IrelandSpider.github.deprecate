@@ -6,4 +6,4 @@ author: Matrix73
 cover: 'assets/img/happyBirthday.jpg'
 tags: life
 ---
-![](/pics/happyBirthday.jpg)
+![happyBirthday.jpg](https://imgchr.com/i/8aceIO)
