@@ -3,7 +3,7 @@ layout: post
 title: '注册了一家公司就有电话打来问是否要做账'
 date: 2019-12-06
 author: Matrix73
-cover: ''
+cover: 'assets/img/helloworld.jpg'
 tags: 思考
 ---
 

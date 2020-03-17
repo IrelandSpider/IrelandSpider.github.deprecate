@@ -1,0 +1,62 @@
+I"�<p>— updated 2019-12-09 —</p>
+<h2 id="如何食用以下内容">如何食用以下内容?*</h2>
+<p><kbd>*</kbd>: 话题有待更新</p>
+<h2 id="下载安装编辑器">下载安装编辑器</h2>
+<p>javascript编辑器有很多款，vscode、sublime、emacs、vim、notepad++,但是这里选用sublime text 3。<br />
+<a href="https://www.sublimetext.com/3">下载sublime text 3 点击这里</a>,选择对应的系统版本和位数，这里使用的是windows10 64位，<a href="https://support.microsoft.com/zh-cn/help/15056/windows-32-64-bit-faq">windows的位数查看方法点击这里</a>，安装过程一直点 Next 就可以了。</p>
+<h2 id="编辑器的常用快捷键">编辑器的常用快捷键*</h2>
+<p><kbd>ctrl+shift+p</kbd>: 打开命令面板<br />
+<kbd>ctrl+p</kbd>: 搜索项目中文件<br />
+<kbd>ctrl+w</kbd>： 关闭当前文件<br />
+<kbd>ctrl+shift+w</kbd>: 关闭所有打开的文件<br />
+<kbd>ctrl+`</kbd>: 打开控制台</p>
+<h2 id="常用技能">常用技能</h2>
+<ul>
+  <li>切换编程语言： <kbd>ctrl+shift+p</kbd>-&gt;输入ss编程语言</li>
+  <li>建立html5模板： 在编辑器输入html:5，按下<kbd>Tab</kbd></li>
+</ul>
+
+<h2 id="配置编辑器的javascript运行环境">配置编辑器的javascript运行环境*</h2>
+<ul>
+  <li>package control<br />
+1 什么是 package control ?<br />
+这是一个 sublime 的包管理器，也就是管理插件的插件，可以通过他的安装源 github 和 buck下载安装插件，并且自动更新；<br />
+2 怎么安装?*<br />
+点击进入<a href="https://packagecontrol.io/installation">packagecontrol.io</a>,看到有一段以 import 开头的文段复制下来，如果肉眼找不到使用浏览器搜索功能<kbd>ctrl+f</kbd>搜索；<br />
+返回sublime3，按<kbd>ctrl+`</kbd>打开控制台，将刚刚复制的文段张贴在控制台光标闪烁的位置，回车完成。<br />
+3 如何使用?<br />
+打开命令面板<kbd>ctrl+shift+p</kbd>，然后敲package control:install package(package install也可以匹配得到),然后回车。这里可能要过一会，因为要加载插件列表，根据每台电脑环境的不同，时间也不同。加载完后有一个弹窗，搜索想要的插件，然后回车完成。</li>
+  <li>emmet<br />
+1 什么是emmet?*<br />
+是一个提高 HTML 和 CSS 开发工作的前端开发者工具。说白了就是可以少敲代码。<br />
+例如：
+    <blockquote>
+      <ul class="demo">
+	<li></li>
+	<li></li>
+	<li></li>
+</ul>
+      <p>2 怎么安装?<br />
+打开 package control : install package , 搜索 emmet ,回车完成。 emmet 需要 py8 的支持才可以用起来，一般会自动下载。但是因为可能是网络原因，需要手动安装。<a href="https://www.jianshu.com/p/ab47772fe88e">py8手动安装教程</a>和<a href="https://github.com/emmetio/pyv8-binaries">py8项目地址</a>.<br />
+3 如何使用?<br />
+这里是一份 emmet 的 <a href="https://docs.emmet.io/cheat-sheet/">cheatsheet</a> ,里面有详细的介绍。</p>
+    </blockquote>
+  </li>
+  <li>jsFormat<br />
+1 什么是jsFormat?*<br />
+就是把javascript代码格式化；<br />
+2 如何安装?<br />
+打开 package control : install package,搜索jsformat,回车完成。<br />
+3 如何使用?*<br />
+<a href="https://github.com/jdavisclark/JsFormat">jsformat项目</a>有详细介绍。</li>
+  <li>sublimeCodeIntel<br />
+1 什么是sublimeCodeIntel?<br />
+这是一款代码提示插件，支持多种语言，说白了可以作弊，毕竟人的大脑有时反应不过来，需要提醒。<br />
+2 怎么安装？<br />
+打开 package control : install package , 搜索sublimeCodeIntel,回车完成。<br />
+3 如何使用？<br />
+在敲代码过程中自动出翔提示，使用上下箭头键筛选，回车选择。
+    <h1 id="day01">Day01</h1>
+  </li>
+</ul>
+:ET

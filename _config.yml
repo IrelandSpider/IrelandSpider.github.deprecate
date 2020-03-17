@@ -1,6 +1,6 @@
 # Site settings 配置站点
 title: "Matrix73's blog"
-description: 'I like coding'
+description: ''
 keyword: 'python'
 url: 'http://www.matrix73.xyz' # your host
 
@@ -18,6 +18,7 @@ baseurl: ''
 nav:
   home: '/'
   tags: '/tags.html'
+  about me: '/Aboutme.html'
 
 # Footer
 footer:
@@ -26,7 +27,7 @@ footer:
 # Author 配置博主信息
 author: 'Matrix73'
 nickname: 'Matrix73'
-bio: 'pre-programmer&data analyst'
+bio: 'pre-programmer & data analyst'
 avatar: '/assets/img/profile.jpg'
 
 # Search
@@ -38,13 +39,13 @@ nightMode: false
 # Comments 评论功能
 comments:
   disqus: false
-  disqus_url: 'https://liaokeyu.disqus.com/embed.js'
+  disqus_url: ''
 
 # MathJax 公式支持 by Ray-Eldath
 mathjax: true
 
 # Share
-social-share: false
+social-share: true
 social-share-items: ['wechat']
 
 # theme color 主题皮肤
