@@ -6,4 +6,4 @@ author: Matrix73
 cover: 'assets/img/helloworld.jpg'
 tags: 思考
 ---
-![pic](assets/img/pic.jpg)
+![pic]('assets/img/pic.jpg)
