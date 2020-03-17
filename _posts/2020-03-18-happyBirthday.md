@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'happy birthday to the apple in my eye!'
+title: 'happy birthday !'
 date: 2020-03-18
 author: Matrix73
-cover: 'assets/img/pic.jpg'
-tags: 思考
+cover: 'assets/img/happyBirthday.jpg'
+tags: life
 ---
-![](assets/img/pic.jpg)
+![](assets/img/happyBirthday.jpg)
